@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PaystackSample</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hint_cvv">CVV</string>
+    <string name="hint_expiry_year">YY</string>
+    <string name="hint_expiry_month">MM</string>
+    <string name="hint_email">Enter your email address</string>
+    <string name="hint_card_number">Enter your card number</string>
+
+    <string name="button_text_create_token">Create token</string>
+
+    <string name="prompt_expiry">Expiry</string>
+    <string name="prompt_cvv">CVV</string>
+    <string name="prompt_token">Token:</string>
+</resources>
